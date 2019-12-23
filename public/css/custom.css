@@ -1,0 +1,74 @@
+.pos-express-btn {
+    /*font-size: 18px!important;*/
+}
+.card_btn .pos-express-btn {
+    font-size: 20px!important;
+    height: 34px!important;
+}
+.mt-5 {
+    margin-top: 5px!important;
+}
+.redeem-btn {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    border-radius: 0!important;
+    display: none;
+}
+.points-font {
+    font-size: 16px!important;
+    position: absolute;
+    bottom: 36px;
+}
+.pending-points {
+    font-size: 14px!important;
+    position: absolute;
+    font-weight: unset!important;
+    bottom: 16px;
+}
+.requested-redeem {
+    font-size: 16px;
+    padding: 2px 2px;
+    -webkit-transition: opacity 0.3s;
+    -moz-transition: opacity 0.3s;
+    -ms-transition: opacity 0.3s;
+    -o-transition: opacity 0.3s;
+    transition: opacity 0.3s;
+}
+.requested-redeem:hover {
+    opacity: 0.9;
+}
+.approve_redeem {
+    text-decoration: none!important;
+}
+.approve_redeem:hover {
+    text-decoration: underline!important;
+}
+.business-name {
+    font-weight: bold;
+}
+.redeem-message {
+
+}
+.redeem-points {
+    font-weight: bold;
+    font-size: 18px;
+}
+#toast-container>div {
+    opacity: 1!important;
+}
+.canvasjs-chart-credit {
+    color: transparent!important;
+    visibility: hidden!important;
+}
+.vertical-align-middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
